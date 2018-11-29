@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: initial;
+    position: relative;
+  }
+  
+  #heading {
+    font-family: Times;
+    font-weight: bold;
+  }
+  
+  #subHeading {
+    font-family: Times;
+    font-style: italic;
+}
+  
+  .panel-title {
+    font-weight: bold;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+  
